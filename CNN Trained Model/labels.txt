@@ -1,0 +1,12 @@
+0 1.Eczema
+1 2.Melanoma
+2 3.Atopic Dermatitis
+3 4.Basal Cell Carcinoma
+4 5.Melanocytic Nevi
+5 6.BenignnKeratosis like Lesions
+6 7.Psoriasis Lichen planus
+7 8.Seborreheic Keratoses and Other benign
+8 9.Tinea Ringworm
+9 10.Warts Molluscum and other
+10 11.Skin Cancer
+11 12.Normal
